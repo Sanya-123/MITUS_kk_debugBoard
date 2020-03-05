@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 22:46:54 On 04.12.2019
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [SCH_BoargV1.SchDoc]
+   Generated File[Bill of Materials-SCH_BoargV1.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 22:47:05 On 04.12.2019
